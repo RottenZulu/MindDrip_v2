@@ -1,0 +1,14 @@
+################################################################
+# This data file contains the content for the video section    #
+#                                                              #
+# VIDEO: The video.                                              #
+# TITLE: The artist and song title.                            #
+################################################################
+- video: <iframe width="560" height="315" src="https://www.youtube.com/embed/5OdDmC1-p4E" frameborder="0" allowfullscreen></iframe>
+  title: Schoolboy Q
+
+- video: <iframe width="560" height="315" src="https://www.youtube.com/embed/5OdDmC1-p4E" frameborder="0" allowfullscreen></iframe>
+  title: Schoolboy Q2
+
+- video: <iframe width="560" height="315" src="https://www.youtube.com/embed/5OdDmC1-p4E" frameborder="0" allowfullscreen></iframe>
+  title: Schoolboy Q3
