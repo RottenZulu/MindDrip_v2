@@ -38,7 +38,11 @@ layout: default
                     <!-- Wrapper for slides -->
                     <div class="carousel-inner" role="listbox">
                       {% for block in site.data.video %}
+                      {% if forloop.first == true %}
                       <div class="item active">
+                      {% else %}
+                      <div class="item">
+                      {% endif %}
                         <div class="embed-responsive embed-responsive-16by9">
                           {{ block.video }}
 
